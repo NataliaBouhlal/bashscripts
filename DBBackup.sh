@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Changes from Natalia)))) new
+
 USER="root"
 PASSWORD="PASS"
 HOST="HOST"
